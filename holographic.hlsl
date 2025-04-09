@@ -1,3 +1,7 @@
+// Adapted from this example that uses the Unity URP extension:
+// https://medium.com/@gonzabarranco/how-to-make-a-hologram-shader-in-unity-with-hlsl-3d6ba415befb
+// The following HLSL code works with Unity's Basic Pipeline
+
 Shader "Custom/Hologram"
 {
     Properties
