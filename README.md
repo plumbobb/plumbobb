@@ -2,8 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>HLSL Shaders</b>
-  - [Holographic Shader Modeling the Fresnel Effect](https://github.com/plumbobb/plumbob/blob/main/holographic.hlsl)
+- [Holographic Shader Modeling the Fresnel Effect](https://github.com/plumbobb/plumbob/blob/main/holographic.hlsl)
 
 <h2>Business:</h2>
 
