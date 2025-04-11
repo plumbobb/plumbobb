@@ -5,7 +5,11 @@
 - <b>HLSL Shaders</b>
   - [Holographic Shader Modeling the Fresnel Effect](https://github.com/plumbobb/plumbob/blob/main/holographic.hlsl)
 
-<h2>Blog Posts</h2>
+<h2>Business:</h2>
+
+- [Stim3D](https://www.etsy.com/shop/Stim3D?ref=shop-header-name&listing_id=1898600037&from_page=listing)
+
+<h2>Blog Posts:</h2>
 
 - [Let's Launch a Game and How It's Going So Far](https://blogs.oregonstate.edu/programmingwithplumbo/lets-launch-a-game-and-how-its-going-so-far/)
 - [Game Design Technologies](https://blogs.oregonstate.edu/programmingwithplumbo/technologies/)
