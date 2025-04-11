@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/plumbobb">Developer</a>, <a href="www.linkedin.com/in/brandon-p-255226104">Founder - Stim3D</a>
+<h1>Hi, I'm Brandon! <br/></h1>
 
 <h2>Software Development Projects:</h2>
 
