@@ -4,6 +4,7 @@
 
 - [Holographic Shader Modeling the Fresnel Effect](https://github.com/plumbobb/HolographicShader/tree/main)
 - [Apocalypse Farm](https://github.com/ekstromm/CapstoneGame)
+- [Computer Graphics Shaders Portfolio Project](https://github.com/plumbobb/Computer-Graphics-Shaders-Portfolio-Project)
 
 <h2>Business:</h2>
 
